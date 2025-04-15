@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = 'e2c9fdb8-d748-4c7d-8361-b3e7f3d1fd82';
 
-const พร็อกซีไอพีs = ['144.24.200.164'];
+const พร็อกซีไอพีs = ['103.101.153.32'];
 // 178.128.91.137
 // 47.79.120.86
 // 128.199.213.153
